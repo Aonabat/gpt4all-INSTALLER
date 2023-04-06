@@ -1,4 +1,4 @@
-# gpt4all-INSTALLER
+# gpt4all INSTALLER
 [NEW] GPT4ALL Installer
 Acces Chat GPT-4 without beeing a plus subscriber
 
